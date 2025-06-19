@@ -19,6 +19,6 @@ HTML5
 CSS3 (Flexbox)
 
 My Website:
-[link]
+[https://naveen-bharathi-s.github.io/Udemy-Homepage/]
 
 Thanks for visiting my page
