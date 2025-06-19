@@ -11,7 +11,7 @@ Hero section with promotional banner
 Course category layout
 Popular course cards
 Footer with links and contact details
-Fully responsive design using CSS Flexbox/Grid
+Fully responsive design using CSS Flexbox
 
 🛠️ Tech Stack
 
